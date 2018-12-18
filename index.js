@@ -23,7 +23,7 @@ function dec(a) {
 }
 
 function makeInt(a) {
-  if() {
+  if(a) {
     return parseFloat('a', 10)
   }
 }
